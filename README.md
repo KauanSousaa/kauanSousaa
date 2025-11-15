@@ -12,7 +12,6 @@ Aqui você encontra projetos que exploram **HTML, CSS, JavaScript, Git e Linux**
 - 💻 Desenvolvedor Front-End
 - 🎨 Apaixonado por design limpo e interfaces intuitivas
 - 📚 Sempre aprendendo novas práticas e ferramentas
-- 🐧 Usuário Linux
 - 🌍 Localização: São Paulo - Brasil
 
 ---
@@ -23,7 +22,6 @@ Aqui você encontra projetos que exploram **HTML, CSS, JavaScript, Git e Linux**
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60"/>
 </p>
 
 ---
