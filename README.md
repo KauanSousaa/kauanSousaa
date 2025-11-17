@@ -4,7 +4,7 @@
 
 Bem-vindo ao meu perfil do GitHub 🚀  
 Sou desenvolvedor focado em criar soluções criativas e funcionais para a web.  
-Aqui você encontra projetos que exploram **HTML, CSS, JavaScript, Git e Linux**.
+Aqui você encontra projetos que exploram **HTML, CSS, JavaScript, Git**.
 
 ---
 
@@ -49,7 +49,6 @@ Aqui você encontra projetos que exploram **HTML, CSS, JavaScript, Git e Linux**
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kauansousaa.SEUPROJETO)
 ![GitHub followers](https://img.shields.io/github/followers/kauansousaa?label=Seguidores&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/kauansousaa?label=Favoritos&style=social)
-![Linux](https://img.shields.io/badge/Linux-Pinguim🐧-blue?style=flat&logo=linux)
 
 ---
 
