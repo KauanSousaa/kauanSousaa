@@ -1,6 +1,6 @@
 # 👋 Olá, Sejam Bem-Vindos!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7DF1E&size=22&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Kauan!;Desenvolvedor+Front-End;HTML+|+CSS+|+JavaScript+|+Git;Usuário+Linux)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7DF1E&size=22&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Kauan!;Desenvolvedor+Front-End;HTML+|+CSS+|+JavaScript+|+Git;)
 
 Bem-vindo ao meu perfil do GitHub 🚀  
 Sou desenvolvedor focado em criar soluções criativas e funcionais para a web.  
