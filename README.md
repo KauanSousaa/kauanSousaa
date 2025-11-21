@@ -35,14 +35,6 @@ Aqui você encontra projetos que exploram **HTML, CSS, JavaScript, Git**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauansousaa&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauansousaa&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kauansousaa&theme=radical&row=1&column=6" alt="Troféus do GitHub"/>
-</p>
-
 ---
 
 ## 🎯 Badges Dinâmicos
