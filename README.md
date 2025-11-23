@@ -10,7 +10,6 @@ Aqui você encontra projetos que exploram **HTML, CSS, JavaScript, Git**.
 
 ## 🌟 Sobre mim
 - 💻 Desenvolvedor Front-End
-- 🎨 Apaixonado por design limpo e interfaces intuitivas
 - 📚 Sempre aprendendo novas práticas e ferramentas
 - 🌍 Localização: São Paulo - Brasil
 
