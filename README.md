@@ -4,12 +4,13 @@
 
 Bem-vindo ao meu perfil do GitHub 🚀  
 Sou desenvolvedor focado em criar soluções criativas e funcionais para a web.  
-Aqui você encontra projetos que exploram **HTML, CSS, JavaScript, Git**.
+Aqui você encontra projetos que exploram **HTML, CSS e JavaScript**.
 
 ---
 
 ## 🌟 Sobre mim
-- 💻 Desenvolvedor Front-End
+- 21 anos
+- 💻 Estudante Dev Front-End
 - 📚 Sempre aprendendo novas práticas e ferramentas
 - 🌍 Localização: São Paulo - Brasil
 
@@ -33,13 +34,6 @@ Aqui você encontra projetos que exploram **HTML, CSS, JavaScript, Git**.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauansousaa&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </p>
-
----
-
-## 🎯 Badges Dinâmicos
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kauansousaa.SEUPROJETO)
-![GitHub followers](https://img.shields.io/github/followers/kauansousaa?label=Seguidores&style=social)
-![GitHub stars](https://img.shields.io/github/stars/kauansousaa?label=Favoritos&style=social)
 
 ---
 
