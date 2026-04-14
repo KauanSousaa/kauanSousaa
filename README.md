@@ -9,7 +9,6 @@ Aqui você encontra projetos que exploram **HTML, CSS e JavaScript**.
 ---
 
 ## 🌟 Sobre mim
-- 21 anos
 - 💻 Estudante Dev Front-End
 - 📚 Sempre aprendendo novas práticas e ferramentas
 - 🌍 Localização: São Paulo - Brasil
