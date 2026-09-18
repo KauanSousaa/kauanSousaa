@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Kauan Souza!
+# 👋 Olá, eu sou Kauan Sousa!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F7D4&center=true&width=435&lines=Bem-vindo+ao+meu+perfil+do+GitHub!+%F0%9F%9A%80;Estudante+de+Tecnologia;Tecn%C3%B3logo+em+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Entusiasta+de+Linux+e+Ciberseguran%C3%A7a" alt="Typing SVG" />
 
